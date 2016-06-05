@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head lang = "en">
+	<title>Sundaes Ice Cream</title>
+	<link rel="stylesheet" type="text/css" href="main.css" />
+</head>
+	
+<body>
+	<header>
+		<h1>Sundaes Ice Cream</h1>
+		<h2>St. Johns MI</h2>
+		<br />
+		<h2>Ice Cream Menu</h2> 
+	</header>
+    
+	<nav class="navbar">
+		<ul class="nav navbar-nav">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="icmenu.html">Ice Cream Menu</a></li>
+			<li><a href="foodmenu.html">Food Menu</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</nav>
+	
+	<div class="container">
+	
+		<p>(**This page will have all ice cream options and when necessary what they have in them.**) </p>
+		<h3>Hard Scoop Flavors</h3>
+			<table class="hard_table">
+ 				<tr>
+    				<td>name</td>
+    				<td></td>
+    				<td></td>
+    				<td></td>
+ 				</tr>
+  				<tr>
+    				<td></td>
+    				<td></td>
+    				<td></td>
+    				<td></td>
+  				</tr>
+			</table>
+			
+		<h3>Flurries</h3>
+			<ul>
+				<li><h4>Name </h4></li>
+					<p>ingredients</p>
+				
+			</ul>
+
+		<h3>Milk Shake Flavors</h3>
+			<table class="flavor_table">
+ 				<tr>
+    				<td>Vanilla</td>
+    				<td>Chocolate</td>
+    				<td>Fudge</td>
+    				<td>Mint</td>
+ 				</tr>
+  				<tr>
+    				<td>Marshmellow</td>
+    				<td>Butterscotch</td>
+    				<td>Caramel</td>
+    				<td>Cherry</td>
+  				</tr>
+  				<tr>
+    				<td>Strawberry</td>
+    				<td>Blueberry</td>
+    				<td>Pinapple</td>
+    				<td>Banana</td>
+  				</tr>
+			</table>
+
+		<h3>Floats</h3>
+			<h4>Pick a pop flavor and we add vanilla ice cream!  Spoon and straw</h4>
+
+		<h3>Cooler</h3>
+			<h4>Want a float and a milk shake?  Coolers are a blended like a shake but are pop and vanilla ice cream!</h4>
+
+
+		<h3>Specialty Items</h3>
+			<ul>
+				<ul>
+				<li><h4>Name </h4></li>
+					<p>Ingredients</p>
+				
+			</ul>
+
+		
+	</div>	
+	
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang = "en">
+	<title>Sundaes Ice Cream</title>
+	<link rel="stylesheet" type="text/css" href="main.css" />
+</head>
+	
+<body>
+	<header>
+		<h1>Sundaes Ice Cream</h1>
+		<h2>St. Johns MI</h2>
+		<br />
+		<h2>Contact</h2> 
+	</header>
+    
+	<nav class="navbar">
+		<ul class="nav navbar-nav">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="icmenu.html">Ice Cream Menu</a></li>
+			<li><a href="foodmenu.html">Food Menu</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</nav>
+	
+	<div class="container">
+		<p>(**This page has the contact information, thinking about inserting a google map square of location.**)
+		</p>
+		<h3>Phone number: (989)224-1956</h3>
+
+		<h3>Address: 1501 Glastonbury Dr.  St. Johns MI </h3>
+		<p> insert map- js stuff I think</p>
+			
+			
+		
+	</div>	
+	
+	
+</body>
+</html>

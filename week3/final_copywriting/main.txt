@@ -1,0 +1,97 @@
+html {
+	background-color: #FABBF2;
+}
+body {
+	background-color: white;
+	width: 1200px;
+	min-height:800px;
+	margin: 2.5em auto; /* this + a defined width, centers the body content */
+	border-color: #F5203C;
+	border-style: solid;
+	border-width: 5px;
+	padding: 50px;
+
+}
+
+header {
+	height: 250px;
+}
+
+header img{
+	float: left;
+	margin-left: 1em;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+}
+
+h2 {
+	text-align: center;
+	color: #28BF28;
+}
+
+h3 {
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+	color: #F5203C;
+}
+
+h4 {
+	color: black;
+}
+
+/* this will put a border around ALL images */
+img {
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+}
+
+.flavor_table {
+	width: 40%;
+}
+
+.hard_table {
+	width: 60%;
+}
+
+/* The code below here alters your links */
+a:link {
+  font-weight: bold;
+  color: #1919FF;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited{
+	color:black;
+}
+
+.navbar-nav > li > a:hover{
+	background-color: #EDC2EA;
+}
+
+.navbar-nav > li > a, .container > ul > li > h4 > a{
+	color: black;
+}
+
+}
+#nav a:link{
+	text-decoration: none;
+	color:black;
+}
+
+
+#nav li {
+	display: inline;
+}
+
+.footer{
+	padding-top: 220px;
+}
