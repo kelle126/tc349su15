@@ -1,0 +1,114 @@
+/* Kelle126
+colors:
+background, h1: #7D2164;
+header, nav: #ECC8CD;
+body: #F8F2EB;
+
+*/
+
+html {
+	background-color: #7D2164;
+}
+body {
+	background-color: #7D2164;
+	width: 1200px;
+	min-height:800px;
+	margin: 2.5em auto; /* this + a defined width, centers the body content */
+	margin-top:-2em; 
+	padding: 50px;
+
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+	color: #7D2164;
+	font-size: 50px;
+	padding-top: 20px;
+}
+
+h2, h3, h4 {
+	color: black;
+}
+
+p {
+	font-size: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+td {
+	font-size: 18px;
+}
+
+.head {
+	background-color: #ECC8CD ;
+	height: 270px;
+	width: 100%;
+	padding-top: 30px;
+}
+
+.nav {
+	background-color: #ECC8CD ;
+	height: 60px;
+	width: 35%;
+	margin-top: 20px;
+	font-size: 20px;	
+	display: center;
+	margin-left: 35%;
+}
+
+
+.container {
+	background-color: #F8F2EB;
+	margin-top: 20px;
+	min-height: 200px;
+	width: 100%;
+	padding-bottom: 80px;
+	padding-left: 50px;
+	
+}
+
+
+.flavor_table {
+	width: 60%;
+}
+
+.hard_table {
+	width: 80%;
+}
+
+/* The code below here alters links */
+a:link {
+  font-weight: bold;
+  color: #7D2164;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color:#7D2164;
+}
+
+.navbar-nav > li > a:hover {
+	background-color: #ECC8CD;
+}
+
+.navbar-nav > li > a, .container > ul > li > h4 > a {
+	color: #7D2164;
+
+}
+
+
+.footer {
+	padding-top: 10px;
+	background-color: #ECC8CD ;
+	height: 50px;
+	width: 100%;
+	margin-top: 20px;
+
+}
